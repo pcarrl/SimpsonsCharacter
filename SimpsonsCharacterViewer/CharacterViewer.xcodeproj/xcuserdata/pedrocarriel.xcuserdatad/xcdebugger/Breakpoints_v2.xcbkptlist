@@ -1,0 +1,578 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   uuid = "9670BB37-3D56-425D-844E-475B4027686C"
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "70A0B206-C50E-4F7C-9061-DCFC159F8F50"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/ConfigurationSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "29"
+            endingLineNumber = "29"
+            landmarkName = "targetSettings"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "70A0B206-C50E-4F7C-9061-DCFC159F8F50 - d05c46a5a000c17d"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Wire_Character_Viewer.ConfigurationSettings.targetSettings.getter : The_Wire_Character_Viewer.Settings"
+                  moduleName = "The Wire Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2264">
+               </Location>
+               <Location
+                  uuid = "70A0B206-C50E-4F7C-9061-DCFC159F8F50 - ade1fbed446ccb6f"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.ConfigurationSettings.targetSettings.getter : Simpsons_Character_Viewer.Settings"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "29"
+                  endingLineNumber = "29"
+                  offsetFromSymbolStart = "2264">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "6C56F3BE-7E61-4CE2-A73B-58FF87FF9A92"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/ConfigurationSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "33"
+            endingLineNumber = "33"
+            landmarkName = "targetSettings"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "6C56F3BE-7E61-4CE2-A73B-58FF87FF9A92 - d05c46a5a000c1f9"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Wire_Character_Viewer.ConfigurationSettings.targetSettings.getter : The_Wire_Character_Viewer.Settings"
+                  moduleName = "The Wire Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "2673">
+               </Location>
+               <Location
+                  uuid = "6C56F3BE-7E61-4CE2-A73B-58FF87FF9A92 - ade1fbed446ccbeb"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.ConfigurationSettings.targetSettings.getter : Simpsons_Character_Viewer.Settings"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "33"
+                  endingLineNumber = "33"
+                  offsetFromSymbolStart = "2673">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "3BD7BA59-29CB-4136-A11B-B25E532F7EF7"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/ConfigurationSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "35"
+            endingLineNumber = "35"
+            landmarkName = "targetSettings"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "3BD7BA59-29CB-4136-A11B-B25E532F7EF7 - d05c46a5a000c1a7"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Wire_Character_Viewer.ConfigurationSettings.targetSettings.getter : The_Wire_Character_Viewer.Settings"
+                  moduleName = "The Wire Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "335">
+               </Location>
+               <Location
+                  uuid = "3BD7BA59-29CB-4136-A11B-B25E532F7EF7 - ade1fbed446ccbb5"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.ConfigurationSettings.targetSettings.getter : Simpsons_Character_Viewer.Settings"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "35"
+                  endingLineNumber = "35"
+                  offsetFromSymbolStart = "335">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "21A665BC-0F74-4AFB-8D91-CBB2B030DBBD"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/ConfigurationSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "25"
+            endingLineNumber = "25"
+            landmarkName = "targetSettings"
+            landmarkType = "24">
+            <Locations>
+               <Location
+                  uuid = "21A665BC-0F74-4AFB-8D91-CBB2B030DBBD - d05c46a5a000c0f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Wire_Character_Viewer.ConfigurationSettings.targetSettings.getter : The_Wire_Character_Viewer.Settings"
+                  moduleName = "The Wire Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "437">
+               </Location>
+               <Location
+                  uuid = "21A665BC-0F74-4AFB-8D91-CBB2B030DBBD - d05c46a5a000c0f1"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "The_Wire_Character_Viewer.ConfigurationSettings.targetSettings.getter : The_Wire_Character_Viewer.Settings"
+                  moduleName = "The Wire Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "741">
+               </Location>
+               <Location
+                  uuid = "21A665BC-0F74-4AFB-8D91-CBB2B030DBBD - ade1fbed446ccae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.ConfigurationSettings.targetSettings.getter : Simpsons_Character_Viewer.Settings"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "437">
+               </Location>
+               <Location
+                  uuid = "21A665BC-0F74-4AFB-8D91-CBB2B030DBBD - ade1fbed446ccae3"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.ConfigurationSettings.targetSettings.getter : Simpsons_Character_Viewer.Settings"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/ConfigurationSettings.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "25"
+                  endingLineNumber = "25"
+                  offsetFromSymbolStart = "741">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7D513AF4-49CA-4BCE-B6EC-4936B498F7D0"
+            shouldBeEnabled = "No"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/ConfigurationSettings.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "24"
+            endingLineNumber = "24"
+            landmarkName = "targetSettings"
+            landmarkType = "24">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "12A874A1-F4D0-479A-9ED7-CB7360A2D5CC"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "110"
+            endingLineNumber = "110"
+            landmarkName = "textFieldDidEndEditing(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "12A874A1-F4D0-479A-9ED7-CB7360A2D5CC - 2b876f17694f7b05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "404">
+               </Location>
+               <Location
+                  uuid = "12A874A1-F4D0-479A-9ED7-CB7360A2D5CC - 2b876f17694f7b05"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "12A874A1-F4D0-479A-9ED7-CB7360A2D5CC - 2b876f17694f7bee"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldDidEndEditing(__C.UITextField) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "93"
+                  endingLineNumber = "93"
+                  offsetFromSymbolStart = "344">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "7BB53403-E900-4590-9E54-F40419E4BF5B"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "63"
+            endingLineNumber = "63"
+            landmarkName = "refreshTable(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "7BB53403-E900-4590-9E54-F40419E4BF5B - e03c52c08d30d466"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.refreshTable(Any) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "133">
+               </Location>
+               <Location
+                  uuid = "7BB53403-E900-4590-9E54-F40419E4BF5B - e03c52c08d30d466"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.refreshTable(Any) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "56"
+                  endingLineNumber = "56"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "A8E5F7DE-199D-4C9D-B95F-548A02ECA3BD"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "60"
+            endingLineNumber = "60"
+            landmarkName = "goTapped(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "A8E5F7DE-199D-4C9D-B95F-548A02ECA3BD - ccc3b5dae11df10c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.goTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "133">
+               </Location>
+               <Location
+                  uuid = "A8E5F7DE-199D-4C9D-B95F-548A02ECA3BD - ccc3b5dae11df10c"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.goTapped(__C.UIButton) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "53"
+                  endingLineNumber = "53"
+                  offsetFromSymbolStart = "34">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9D10DE67-9B4B-4D48-84FB-BFEE621D6BB8"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterListViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "114"
+            endingLineNumber = "114"
+            landmarkName = "textFieldShouldReturn(_:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "9D10DE67-9B4B-4D48-84FB-BFEE621D6BB8 - 73f77ff1124d8f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "344">
+               </Location>
+               <Location
+                  uuid = "9D10DE67-9B4B-4D48-84FB-BFEE621D6BB8 - 73f77ff1124d8f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "9D10DE67-9B4B-4D48-84FB-BFEE621D6BB8 - 73f77ff1124d8f54"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "90"
+                  endingLineNumber = "90"
+                  offsetFromSymbolStart = "130">
+               </Location>
+               <Location
+                  uuid = "9D10DE67-9B4B-4D48-84FB-BFEE621D6BB8 - 73f77ff1124d8ebf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "81">
+               </Location>
+               <Location
+                  uuid = "9D10DE67-9B4B-4D48-84FB-BFEE621D6BB8 - 73f77ff1124d8ebf"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "Simpsons_Character_Viewer.CharacterListViewController.textFieldShouldReturn(__C.UITextField) -&gt; Swift.Bool"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterListViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "97"
+                  endingLineNumber = "97"
+                  offsetFromSymbolStart = "130">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "F4ADEC52-D1F7-4D6E-A9D8-547742FEB971"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "44"
+            endingLineNumber = "44"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "1B85D4C9-137C-4B1B-BF5C-D9FBE1EBF775"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "41"
+            endingLineNumber = "41"
+            landmarkName = "load(url:)"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  uuid = "1B85D4C9-137C-4B1B-BF5C-D9FBE1EBF775 - e7e6cfd814234e9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "205">
+               </Location>
+               <Location
+                  uuid = "1B85D4C9-137C-4B1B-BF5C-D9FBE1EBF775 - e7e6cfd814234e9b"
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 () -&gt; () in __C.UIImageView.load(url: Foundation.URL) -&gt; ()"
+                  moduleName = "Simpsons Character Viewer"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/pedrocarriel/Swift/SimpsonsCharacterViewer/CharacterViewer/CharacterDetailViewController.swift"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "41"
+                  endingLineNumber = "41"
+                  offsetFromSymbolStart = "395">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            uuid = "9C66BAE1-68CA-45E6-A81C-09E7907F7AD2"
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "CharacterViewer/CharacterDetailViewController.swift"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "34"
+            endingLineNumber = "34"
+            landmarkName = "getContent()"
+            landmarkType = "7">
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
